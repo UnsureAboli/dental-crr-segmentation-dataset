@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0384_primary_periodontal_lesion_67",
+  "image_path": "images/lm_0384_primary_periodontal_lesion_67.jpg",
+  "image_width": 815,
+  "image_height": 632,
+  "crown_mask": "masks_crown/lm_0384_primary_periodontal_lesion_67_crown.png",
+  "root_mask": "masks_root/lm_0384_primary_periodontal_lesion_67_root.png",
+  "combined_mask": "masks_combined/lm_0384_primary_periodontal_lesion_67_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0384_primary_periodontal_lesion_67.png",
+  "has_multiclass": true,
+  "source_json": "Primary Periodontal Lesion (67).json",
+  "source_image": "Primary Periodontal Lesion (67).JPG"
+}

@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0354_primary_endodontic_lesion_26",
+  "image_path": "images/lm_0354_primary_endodontic_lesion_26.jpg",
+  "image_width": 807,
+  "image_height": 626,
+  "crown_mask": "masks_crown/lm_0354_primary_endodontic_lesion_26_crown.png",
+  "root_mask": "masks_root/lm_0354_primary_endodontic_lesion_26_root.png",
+  "combined_mask": "masks_combined/lm_0354_primary_endodontic_lesion_26_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0354_primary_endodontic_lesion_26.png",
+  "has_multiclass": true,
+  "source_json": "Primary Endodontic Lesion (26).json",
+  "source_image": "Primary Endodontic Lesion (26).JPG"
+}

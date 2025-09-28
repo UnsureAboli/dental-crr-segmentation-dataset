@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0050_f0024a56048948b49b1431ada43c4de3_png_rf_",
+  "image_path": "images/lm_0050_f0024a56048948b49b1431ada43c4de3_png_rf_.jpg",
+  "image_width": 640,
+  "image_height": 640,
+  "crown_mask": "masks_crown/lm_0050_f0024a56048948b49b1431ada43c4de3_png_rf__crown.png",
+  "root_mask": "masks_root/lm_0050_f0024a56048948b49b1431ada43c4de3_png_rf__root.png",
+  "combined_mask": "masks_combined/lm_0050_f0024a56048948b49b1431ada43c4de3_png_rf__combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0050_f0024a56048948b49b1431ada43c4de3_png_rf_.png",
+  "has_multiclass": true,
+  "source_json": "f0024a56048948b49b1431ada43c4de3_png.rf.fe9517022814fbed06a9383b24db67cd.json",
+  "source_image": "f0024a56048948b49b1431ada43c4de3_png.rf.fe9517022814fbed06a9383b24db67cd.jpg"
+}

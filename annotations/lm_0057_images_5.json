@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0057_images_5",
+  "image_path": "images/lm_0057_images_5.jpg",
+  "image_width": 259,
+  "image_height": 195,
+  "crown_mask": "masks_crown/lm_0057_images_5_crown.png",
+  "root_mask": "masks_root/lm_0057_images_5_root.png",
+  "combined_mask": "masks_combined/lm_0057_images_5_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0057_images_5.png",
+  "has_multiclass": true,
+  "source_json": "images (5).json",
+  "source_image": "images (5).JPG"
+}

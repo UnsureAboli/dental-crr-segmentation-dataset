@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0337_primary_endo_with_secondary_perio_81",
+  "image_path": "images/lm_0337_primary_endo_with_secondary_perio_81.jpg",
+  "image_width": 776,
+  "image_height": 612,
+  "crown_mask": "masks_crown/lm_0337_primary_endo_with_secondary_perio_81_crown.png",
+  "root_mask": "masks_root/lm_0337_primary_endo_with_secondary_perio_81_root.png",
+  "combined_mask": "masks_combined/lm_0337_primary_endo_with_secondary_perio_81_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0337_primary_endo_with_secondary_perio_81.png",
+  "has_multiclass": true,
+  "source_json": "Primary Endo with Secondary Perio (81).json",
+  "source_image": "Primary Endo with Secondary Perio (81).JPG"
+}

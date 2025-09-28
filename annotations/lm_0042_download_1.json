@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0042_download_1",
+  "image_path": "images/lm_0042_download_1.jpg",
+  "image_width": 283,
+  "image_height": 178,
+  "crown_mask": "masks_crown/lm_0042_download_1_crown.png",
+  "root_mask": "masks_root/lm_0042_download_1_root.png",
+  "combined_mask": "masks_combined/lm_0042_download_1_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0042_download_1.png",
+  "has_multiclass": true,
+  "source_json": "download (1).json",
+  "source_image": "download (1).JPG"
+}

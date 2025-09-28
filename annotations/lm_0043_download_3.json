@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0043_download_3",
+  "image_path": "images/lm_0043_download_3.jpg",
+  "image_width": 259,
+  "image_height": 194,
+  "crown_mask": "masks_crown/lm_0043_download_3_crown.png",
+  "root_mask": "masks_root/lm_0043_download_3_root.png",
+  "combined_mask": "masks_combined/lm_0043_download_3_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0043_download_3.png",
+  "has_multiclass": true,
+  "source_json": "download (3).json",
+  "source_image": "download (3).JPG"
+}

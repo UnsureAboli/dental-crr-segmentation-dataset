@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0390_svmymdiwmtiwm18xmdu1ndnfmdm1ml8wmdawnuzg",
+  "image_path": "images/lm_0390_svmymdiwmtiwm18xmdu1ndnfmdm1ml8wmdawnuzg.jpg",
+  "image_width": 640,
+  "image_height": 640,
+  "crown_mask": "masks_crown/lm_0390_svmymdiwmtiwm18xmdu1ndnfmdm1ml8wmdawnuzg_crown.png",
+  "root_mask": "masks_root/lm_0390_svmymdiwmtiwm18xmdu1ndnfmdm1ml8wmdawnuzg_root.png",
+  "combined_mask": "masks_combined/lm_0390_svmymdiwmtiwm18xmdu1ndnfmdm1ml8wmdawnuzg_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0390_svmymdiwmtiwm18xmdu1ndnfmdm1ml8wmdawnuzg.png",
+  "has_multiclass": true,
+  "source_json": "SVMyMDIwMTIwM18xMDU1NDNfMDM1Ml8wMDAwNUZGOTE2MDY5NzYxODIxNDQ3OTAzMTE-_jpg.rf.7a1f3141d3a66a098f739972df00b2a1.json",
+  "source_image": "SVMyMDIwMTIwM18xMDU1NDNfMDM1Ml8wMDAwNUZGOTE2MDY5NzYxODIxNDQ3OTAzMTE-_jpg.rf.7a1f3141d3a66a098f739972df00b2a1.jpg"
+}

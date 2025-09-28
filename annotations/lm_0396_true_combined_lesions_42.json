@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0396_true_combined_lesions_42",
+  "image_path": "images/lm_0396_true_combined_lesions_42.jpg",
+  "image_width": 804,
+  "image_height": 618,
+  "crown_mask": "masks_crown/lm_0396_true_combined_lesions_42_crown.png",
+  "root_mask": "masks_root/lm_0396_true_combined_lesions_42_root.png",
+  "combined_mask": "masks_combined/lm_0396_true_combined_lesions_42_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0396_true_combined_lesions_42.png",
+  "has_multiclass": true,
+  "source_json": "True Combined Lesions (42).json",
+  "source_image": "True Combined Lesions (42).JPG"
+}

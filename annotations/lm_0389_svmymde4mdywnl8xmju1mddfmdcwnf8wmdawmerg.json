@@ -1,0 +1,13 @@
+{
+  "image_id": "lm_0389_svmymde4mdywnl8xmju1mddfmdcwnf8wmdawmerg",
+  "image_path": "images/lm_0389_svmymde4mdywnl8xmju1mddfmdcwnf8wmdawmerg.jpg",
+  "image_width": 640,
+  "image_height": 640,
+  "crown_mask": "masks_crown/lm_0389_svmymde4mdywnl8xmju1mddfmdcwnf8wmdawmerg_crown.png",
+  "root_mask": "masks_root/lm_0389_svmymde4mdywnl8xmju1mddfmdcwnf8wmdawmerg_root.png",
+  "combined_mask": "masks_combined/lm_0389_svmymde4mdywnl8xmju1mddfmdcwnf8wmdawmerg_combined.png",
+  "multiclass_mask": "masks_multiclass/lm_0389_svmymde4mdywnl8xmju1mddfmdcwnf8wmdawmerg.png",
+  "has_multiclass": true,
+  "source_json": "SVMyMDE4MDYwNl8xMjU1MDdfMDcwNF8wMDAwMERGMDE1MjgyNzAzNzIxNDQ3MjU3NjAx_jpg.rf.cbd4a8593f3c413fe0bc5687de402c4d.json",
+  "source_image": "SVMyMDE4MDYwNl8xMjU1MDdfMDcwNF8wMDAwMERGMDE1MjgyNzAzNzIxNDQ3MjU3NjAx_jpg.rf.cbd4a8593f3c413fe0bc5687de402c4d.jpg"
+}
